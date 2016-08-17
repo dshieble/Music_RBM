@@ -2,10 +2,8 @@ import midi
 import numpy as np
 
 
-# lowerBound = 24
-# upperBound = 102
-lowerBound = 40
-upperBound = 90
+lowerBound = 24
+upperBound = 102
 span = upperBound-lowerBound
 
 
